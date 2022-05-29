@@ -2,7 +2,7 @@
 
 This notebook contains python code I wrote for many of the problems found in UCL's COMP0043 Numerical Methods course.
 
-May contain bugs. May be verbose.
+Code may contain bugs and may be verbose. Feel free to comment any glaring issues but I may not respond.
 
 If you are also taking this course and the syllabus is the same as in 2022, I suggest learning how these processes work and being able to produce similar programs from memory.
 
