@@ -4,6 +4,8 @@ This notebook contains python code I wrote for many of the problems found in UCL
 
 May contain bugs. May be verbose.
 
+If you are also taking this course and the syllabus is the same as in 2022, I suggest learning how these processes work and being able to produce similar programs from memory.
+
 The notebook includes:
  - LCG
  - Fibonacci Generator
